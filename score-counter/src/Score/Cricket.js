@@ -12,7 +12,7 @@ function Cricket() {
         if(wickets <10){
           setwickets(wickets+1)
         }else{
-          alert("Innings is over")
+          alert("Innings Over")
         }
       }
   return (
